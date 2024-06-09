@@ -30,30 +30,30 @@ Welcome to my GitHub profile! I'm a [Your Profession] with a passion for [Your I
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Wa316082&theme=radical)
 
 ## 📊 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&langs_count=8&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wa316082&langs_count=8&theme=radical)
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Wa316082&theme=radical)
 
 ## 📂 Featured Projects
 
 ### [Project 1](https://github.com/yourusername/project1)
-![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=radical)
+![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=Wa316082&repo=project1&theme=radical)
 
 ### [Project 2](https://github.com/yourusername/project2)
-![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=radical)
+![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=Wa316082&repo=project2&theme=radical)
 
 ### [Project 3](https://github.com/yourusername/project3)
-![Project 3](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project3&theme=radical)
+![Project 3](https://github-readme-stats.vercel.app/api/pin/?username=Wa316082&repo=project3&theme=radical)
 
 ## 🛠️ Contributions
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=radical)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Wa316082&theme=radical)
 
 ## 🌟 Highlights
 
