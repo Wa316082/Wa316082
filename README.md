@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a [Your Profession] with a passion for [Your I
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
-![Flutter]([https://img.shields.io/badge/-Flutter-0769AD?style=flat&logo=jquery&logoColor=white)
+![Flutter](https://img.shields.io/badge/-flutter-0769AD?style=flat&logo=flutter&logoColor=white)
 
 ## 📈 GitHub Stats
 
