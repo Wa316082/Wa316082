@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm a Full Stack Web and Mobile Application Develo
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Wa316082&show_icons=true&theme=radical)
 
 ## 🔥 GitHub Streak
 
