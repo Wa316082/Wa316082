@@ -1,8 +1,8 @@
 # Hi there, I'm Md. WAsim Akram 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Wa326082&color=blue)
 
-Welcome to my GitHub profile! I'm a [Your Profession] with a passion for [Your Interests]. Here you'll find some of my latest work, contributions, and a bit about me.
+Welcome to my GitHub profile! I'm a Full Stack Web and Mobile Application Developer with a passion for . Here you'll find some of my latest work, contributions, and a bit about me.
 
 ## 🔧 Technologies & Tools
 
