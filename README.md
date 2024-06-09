@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a [Your Profession] with a passion for [Your I
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wa316082&show_icons=true&theme=radical)
 
 ## 🔥 GitHub Streak
 
