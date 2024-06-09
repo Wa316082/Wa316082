@@ -58,12 +58,9 @@ Welcome to my GitHub profile! I'm a [Your Profession] with a passion for [Your I
 
 ## 🌟 Highlights
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on Next js
+- 🌱 I’m currently learning Flutter
+- 📫 How to reach me: Through Whatsapp or email
 
 ## 📈 Analytics
 
@@ -77,7 +74,7 @@ Welcome to my GitHub profile! I'm a [Your Profession] with a passion for [Your I
 
 ## 💼 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/wasim-akram-294567234)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=internet-explorer&logoColor=white)](https://yourportfolio.com)
 
