@@ -54,7 +54,7 @@ Welcome to my GitHub profile! I'm a [Your Profession] with a passion for [Your I
 
 ## 🛠️ Contributions
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Wa316082&theme=radical)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=&theme=radical)
 
 ## 🌟 Highlights
 
