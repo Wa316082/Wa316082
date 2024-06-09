@@ -41,20 +41,9 @@ Welcome to my GitHub profile! I'm a [Your Profession] with a passion for [Your I
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Wa316082&theme=radical)
 
-## 📂 Featured Projects
-
-### [TIMS](https://github.com/Wa316082/TIMS)
-![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=Wa316082&repo=TIMS&theme=radical)
-
-### [Project 2](https://github.com/yourusername/project2)
-![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=Wa316082&repo=project2&theme=radical)
-
-### [Project 3](https://github.com/yourusername/project3)
-![Project 3](https://github-readme-stats.vercel.app/api/pin/?username=Wa316082&repo=project3&theme=radical)
-
 ## 🛠️ Contributions
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=&theme=radical)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Wa316082&theme=radical)
 
 ## 🌟 Highlights
 
@@ -75,9 +64,7 @@ Welcome to my GitHub profile! I'm a [Your Profession] with a passion for [Your I
 ## 💼 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/wasim-akram-294567234)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=internet-explorer&logoColor=white)](https://yourportfolio.com)
 
 ---
 
-⭐️ From [Your Name](https://github.com/yourusername)
+⭐️ From [Wasim Akram](https://github.com/Wa316082)
