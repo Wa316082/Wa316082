@@ -43,7 +43,7 @@ Welcome to my GitHub profile! I'm a [Your Profession] with a passion for [Your I
 
 ## 📂 Featured Projects
 
-### [TMIS](https://github.com/yourusername/project1)
+### [TIMS](https://github.com/Wa316082/TIMS)
 ![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=Wa316082&repo=TIMS&theme=radical)
 
 ### [Project 2](https://github.com/yourusername/project2)
