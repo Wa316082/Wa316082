@@ -71,7 +71,7 @@
     ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
     ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
     ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-    ![DART](https://img.shields.io/badge/-dart-777BB4?style=flat&logo=dart&logoColor=white)
+    ![DART](https://img.shields.io/badge/-dart-02569B?style=flat&logo=dart&logoColor=white)
   
 - **Frameworks**:
   
@@ -87,7 +87,8 @@
     ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
   
 - **Mobile Technologies**:
-  
+
+  ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&amp;logo=flutter&amp;logoColor=white)
    
 - **Databases**:
   
