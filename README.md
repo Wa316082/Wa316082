@@ -1,70 +1,141 @@
-# Hi there, I'm Md. WAsim Akram 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=Wa326082&color=blue)
 
-Welcome to my GitHub profile! I'm a Full Stack Web and Mobile Application Developer with a passion for . Here you'll find some of my latest work, contributions, and a bit about me.
+<a href="https://komarev.com/ghpvc/?username=Wa316082">
+    <img align="right" src="https://komarev.com/ghpvc/?username=Wa316082&label=Visitors&color=0e75b6&style=flat"
+        alt="Profile visitor" />
+</a>
 
-## 🔧 Technologies & Tools
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
-![Flutter](https://img.shields.io/badge/-flutter-0769AD?style=flat&logo=flutter&logoColor=white)
 
-## 📈 GitHub Stats
+<!-- Intro  -->
+<h3 align="center">
+    <samp>&gt; Hey There!, I am
+        <b><a target="_blank" href="">Wasim Akram</a></b>
+    </samp>
+</h3>
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Wa316082&show_icons=true&theme=radical)
 
-## 🔥 GitHub Streak
+<p align="center">
+    <samp>
+        <a href="https://www.google.com/search?q=Wasim Akram">「 Google Me 」</a>
+        <br>
+        「 I am a full stack web application developer from <b>Bangladesh</b> 」
+        <br>
+        <br>
+    </samp>
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Wa316082&theme=radical)
+<p align="center">
+<!--     <a href="https://rakahsan.online/" target="blank">
+        <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white"
+            alt="rakib" />
+    </a> -->
+<!--     <a href="https://www.linkedin.com/in/rakibahsan/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+            alt="rakib" />
+    </a> -->
+    <!-- <a href="https://dev.to/alsiam" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
+   </a> -->
+<!--     <a href="https://twitter.com/Rakibahsan1212" target="_blank">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    </a>
+    <a href="https://www.instagram.com/rakibahsan1212/" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white"
+            alt="rakib" />
+    </a>
+    <a href="https://www.facebook.com/rakibahsan1212" target="_blank">
+        <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white"
+            alt="rakib" />
+    </a> -->
+</p>
+<br />
 
-## 📊 Top Languages
+<!-- About Section -->
+# About me
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wa316082&langs_count=8&theme=radical)
+<p>
+    <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
 
-## 🏆 GitHub Trophies
+    ✌️ Enjoy to do programming and sharing knowledge 
+    ❤️ Love to writing code and learning new features
+    📧 Reach me anytime: rakibzubayar@gmail.com
+    💬 Ask me about anything
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Wa316082&theme=radical)
+</p>
 
-## 🛠️ Contributions
+<br />
+<br />
+<br />
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Wa316082&theme=radical)
+## Use To Code
 
-## 🌟 Highlights
+![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
+![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Ant-Design](https://img.shields.io/badge/AntDesign-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Strapi](https://img.shields.io/badge/strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- 🔭 I’m currently working on Next js
-- 🌱 I’m currently learning Flutter
-- 📫 How to reach me: Through Whatsapp or email
+<br />
+<!-- About Section 
+## Top Open Source -
+[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/itasks)
+[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/urfolio)
+[![Web
+Projects](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/web-projects)
+[![Al Siam
+Readme](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/alsiam)
+-->
+<p align="left">
+    <a href="https://github.com/rak-ahsan?tab=repositories" target="_blank"><img alt="All Repositories"
+            title="All Repositories"
+            src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white" /></a>
+</p>
 
-## 📈 Analytics
 
-### Languages Used
+<br />
+<hr />
+<br />
 
-![Languages Used](https://your-generated-language-chart-url)
+<p align="center">
+    <a href="https://github.com/Wa316082">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wa316082&theme=radical&border=7F3FBF&background=0D1117"
+            alt=Rakib's GitHub streak" />
+    </a>
+</p>
 
-### Contribution Pie Chart
+<p align="center">
+    <a href="https://github.com/Wa316082">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wa316082&theme=radical"
+            alt="Rakib's GitHub Contribution" />
+    </a>
+</p>
 
-![Contributions](https://your-generated-pie-chart-url)
+<a>
+    <a href="https://github.com/Wa316082"><img alt="Wasim's Github Stats"
+            src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Wa316082&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"
+            height="192px" width="49.5%" /></a>
+    <a href="https://github.com/Wa316082"><img alt="Wasim's Top Languages"
+            src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Wa316082&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"
+            height="192px" width="49.5%" /></a>
+    <br />
+</a>
 
-## 💼 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/wasim-akram-294567234)
-
----
-
-⭐️ From [Wasim Akram](https://github.com/Wa316082)
+![Rakib's
+Graph](https://github-readme-activity-graph.vercel.app/graph?username=Wa316082&custom_titleWasim's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
