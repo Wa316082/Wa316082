@@ -32,7 +32,7 @@
     </a> -->
     <a href="https://www.linkedin.com/in/wasim-akram-ak" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-            alt="rakib" />
+            alt="Wasim" />
     </a>
     <!-- <a href="https://dev.to/alsiam" target="_blank">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
@@ -110,18 +110,10 @@ I thrive on solving complex problems and turning ideas into reality through code
 
 Feel free to explore my repositories to see my latest projects and contributions. If you'd like to collaborate or just want to chat about tech, don't hesitate to reach out!
 
-[Email](mailto:your-email@example.com) | [LinkedIn](https://www.linkedin.com/in/yourprofile) | [Twitter](https://twitter.com/yourprofile)
+[Email](mailto:wasimakram316082@gmnail.com) | [LinkedIn](https://www.linkedin.com/in/wasim-akram-ak)
 
 
-<!-- About Section 
-## Top Open Source -
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/itasks)
-[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/urfolio)
-[![Web
-Projects](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/web-projects)
-[![Al Siam
-Readme](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/alsiam)
--->
+
 <p align="left">
     <a href="https://github.com/rak-ahsan?tab=repositories" target="_blank"><img alt="All Repositories"
             title="All Repositories"
