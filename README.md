@@ -72,7 +72,7 @@
     ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
     ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
     ![DART](https://img.shields.io/badge/-dart-02569B?style=flat&logo=dart&logoColor=white)
-  
+      <br/>
 - **Frameworks**:
   
     ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
@@ -85,18 +85,18 @@
     ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
     ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
     ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-  
+      <br/>
 - **Mobile Technologies**:
 
   ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&amp;logo=flutter&amp;logoColor=white)
-   
+  <br/>
 - **Databases**:
   
     ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
     ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
     ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
     ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-  
+      <br/>
 - **Tools**:
   
     ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
