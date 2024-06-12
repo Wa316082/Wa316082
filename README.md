@@ -112,7 +112,7 @@ Feel free to explore my repositories to see my latest projects and contributions
 
 
 <p align="left">
-    <a href="https://github.com/rak-ahsan?tab=repositories" target="_blank"><img alt="All Repositories"
+    <a href="https://github.com/Wa316082?tab=repositories" target="_blank"><img alt="All Repositories"
             title="All Repositories"
             src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white" /></a>
 </p>
