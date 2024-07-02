@@ -132,7 +132,7 @@ Feel free to explore my repositories to see my latest projects and contributions
 <p align="center">
     <a href="https://github.com/Wa316082">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wa316082&theme=radical"
-            alt="Rakib's GitHub Contribution" />
+            alt="Wasim's Github Colaborations" />
     </a>
 </p>
 
