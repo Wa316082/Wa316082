@@ -138,7 +138,7 @@ Feel free to explore my repositories to see my latest projects and contributions
 
 <a>
     <a href="https://github.com/Wa316082"><img alt="Wasim's Github Stats"
-        src="https://github-readme-stats.vercel.app/api?username=Wa316082&show_icons=true&theme=radical)"
+        src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"
             height="192px" width="49.5%" /></a>
     <a href="https://github.com/Wa316082"><img alt="Wasim's Top Languages"
             src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Wa316082&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"
