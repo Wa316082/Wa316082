@@ -124,7 +124,7 @@ Feel free to explore my repositories to see my latest projects and contributions
 
 <p align="center">
     <a href="https://github.com/Wa316082">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wa316082&theme=dark"
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wa316082&theme=radical"
             alt="Wasim's GitHub streak" />
     </a>
 </p>
