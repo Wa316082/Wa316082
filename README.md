@@ -125,7 +125,7 @@ Feel free to explore my repositories to see my latest projects and contributions
 <p align="center">
     <a href="https://github.com/Wa316082">
         <img src="https://avatars.githubusercontent.com/u/101830238?s=400&u=5baf15d842609844c349082bbd140364d747fd8f&v=4"
-            alt=Wasim's GitHub streak" />
+            alt="Wasim's GitHub streak" />
     </a>
 </p>
 
