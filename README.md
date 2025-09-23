@@ -17,7 +17,7 @@
 
 <p align="center">
     <samp>
-        <a href="https://www.google.com/search?q=Wasim Akram">「 Google Me 」</a>
+        <a href="https://www.google.com/search?q=linkedin.com/in/wasim-akram-ak">「 Google Me 」</a>
         <br>
         「 Welcome to my GitHub profile! I'm a Full Stack Web & Mobile Application Developer with a passion for crafting exceptional projects. Here, you'll discover my latest work, contributions, and learn a bit more about me. 」
         <br>
