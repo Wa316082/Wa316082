@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">
-<!--     <a href="https://rakahsan.online/" target="blank">
+    <a href="https://potfolio-wa.vercel.app/" target="blank">
         <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white"
-            alt="rakib" />
-    </a> -->
+            alt="Wasim" />
+    </a>
     <a href="https://www.linkedin.com/in/wasim-akram-ak" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
             alt="Wasim" />
@@ -43,11 +43,11 @@
     <a href="https://www.instagram.com/rakibahsan1212/" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white"
             alt="rakib" />
-    </a>
-    <a href="https://www.facebook.com/rakibahsan1212" target="_blank">
+    </a>-->
+    <a href="https://www.facebook.com/md.wasim.akram.24" target="_blank">
         <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white"
-            alt="rakib" />
-    </a> -->
+            alt="Wasim" />
+    </a> 
 </p>
 <br />
 
